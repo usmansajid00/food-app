@@ -17,7 +17,7 @@ a {
   margin: auto;
 }
 ::selection {
-  /* user-select: none; */
+  user-select: none;
   background-color: #646cffaa;
   color: white;
 }
